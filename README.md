@@ -35,7 +35,7 @@ To set up and use the **Local-AI** management script:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Purvapatel4725/Local-AI.git
+   git clone https://github.com/purva-patel/Local-AI.git
    ```
 
 2. Navigate to the repository directory:
